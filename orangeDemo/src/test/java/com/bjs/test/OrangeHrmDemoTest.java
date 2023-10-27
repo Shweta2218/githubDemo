@@ -23,7 +23,7 @@ public class OrangeHrmDemoTest {
 		l.clickSubmitButton();
 		Homepage h=new Homepage(d);
 		h.clickoInc();
-		System.out.println("github commit demo");
+		
 		
 
 	}
